@@ -1,0 +1,9 @@
+# Qiskit Fall Fest 2026 - Track I3: Fraud Detector Requirements
+qiskit==2.5.2
+qiskit-machine-learning==0.9.1
+rustworkx==0.17.1
+scikit-learn>=1.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+notebook>=7.0.0
